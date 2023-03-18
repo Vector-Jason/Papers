@@ -21,7 +21,7 @@
 
 噪声标签学习主要是关注当label出错时对最终预测结果的影响大小，即具体考量模型和算法的鲁棒性。
 
-![image](https://github.com/Vector-Jason/Papers/blob/main/image/%E5%99%AA%E5%A3%B0%E6%A0%87%E7%AD%BE%E5%AD%A6%E4%B9%A0%E6%A0%B7%E4%BE%8B%E6%A1%86%E5%9B%BE.png)
+
 
 ![image](https://github.com/Vector-Jason/Papers/blob/main/image/%E5%99%AA%E5%A3%B0%E6%A0%87%E7%AD%BE%E8%BD%AC%E7%A7%BB%E7%9F%A9%E9%98%B5%E7%AE%97%E6%B3%95.jpg)
 
