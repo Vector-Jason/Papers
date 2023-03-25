@@ -35,12 +35,12 @@
 
 针对多频率测量的实时性的研究，我们希望对待测信号设置一个权重以加强在响应时间内的叠加效率，这样能使频率折叠后的分信号互相增强，从而拓宽感知范围。
 
-![image](https://github.com/Vector-Jason/Papers/blob/main/image/%E8%87%AA%E5%B7%B1%E5%AF%B9%E7%AE%97%E6%B3%95%E7%9A%84%E7%90%86%E8%A7%A3.jpg)
+![image](https://github.com/Vector-Jason/Papers/blob/main/image/%E5%B0%84%E9%A2%91%E6%8A%98%E5%8F%A0%E7%AE%97%E6%B3%95%E6%B5%81%E7%A8%8B.png)
 
 因此，如图所示，我们用理论信号与待测射频信号干涉，如果所有待测信号与理论信号相关，则待测信号干涉相长。此外，进一步增强射频折叠，如果信号在某一时期做时间平均后最大，则该时期为振动周期。
 
 当前研究成果：
 
-![image](https://github.com/Vector-Jason/Papers/blob/main/image/%E8%87%AA%E5%B7%B1%E5%AF%B9%E7%AE%97%E6%B3%95%E7%9A%84%E7%90%86%E8%A7%A3.jpg)
+![image](https://github.com/Vector-Jason/Papers/blob/main/image/RFID%E8%AE%BE%E5%A4%87%E5%9B%BE.png)
 
-![image](https://github.com/Vector-Jason/Papers/blob/main/image/%E8%87%AA%E5%B7%B1%E5%AF%B9%E7%AE%97%E6%B3%95%E7%9A%84%E7%90%86%E8%A7%A3.jpg)
+![image](https://github.com/Vector-Jason/Papers/blob/main/image/%E4%BF%A1%E5%8F%B7%E5%B0%84%E9%A2%91%E6%8A%98%E5%8F%A0%E6%83%85%E5%86%B5.png)
