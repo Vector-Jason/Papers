@@ -29,3 +29,18 @@
 
 ![image](https://github.com/Vector-Jason/Papers/blob/main/image/%E8%87%AA%E5%B7%B1%E5%AF%B9%E7%AE%97%E6%B3%95%E7%9A%84%E7%90%86%E8%A7%A3.jpg)
 
+## 射频识别技术（RFID）：
+
+工业机械的振动一般反应了其内部状态，精准感知机械振动对于检查机械健康、识别异常和诊断故障非常关键。但在很多 RFID 系统的应用场合里，往往需要在极短的时间片段(秒级)里对数十个甚至上百个标签需要切换频率进行读写数据操作，信号传输在时间域上存在着重叠，从而产生数据碰撞问题。因此本人重点解决的问题是：多频率测量的实时性。
+
+针对多频率测量的实时性的研究，我们希望对待测信号设置一个权重以加强在响应时间内的叠加效率，这样能使频率折叠后的分信号互相增强，从而拓宽感知范围。
+
+![image](https://github.com/Vector-Jason/Papers/blob/main/image/%E8%87%AA%E5%B7%B1%E5%AF%B9%E7%AE%97%E6%B3%95%E7%9A%84%E7%90%86%E8%A7%A3.jpg)
+
+因此，如图所示，我们用理论信号与待测射频信号干涉，如果所有待测信号与理论信号相关，则待测信号干涉相长。此外，进一步增强射频折叠，如果信号在某一时期做时间平均后最大，则该时期为振动周期。
+
+当前研究成果：
+
+![image](https://github.com/Vector-Jason/Papers/blob/main/image/%E8%87%AA%E5%B7%B1%E5%AF%B9%E7%AE%97%E6%B3%95%E7%9A%84%E7%90%86%E8%A7%A3.jpg)
+
+![image](https://github.com/Vector-Jason/Papers/blob/main/image/%E8%87%AA%E5%B7%B1%E5%AF%B9%E7%AE%97%E6%B3%95%E7%9A%84%E7%90%86%E8%A7%A3.jpg)
